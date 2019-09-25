@@ -58,3 +58,5 @@ Webuploader | 文件上传 |
 3、目录结构
 
 ![Image](https://github.com/chyanwu/erp-framework/blob/master/src/main/resources/image/catalogue.png)
+**2019年09月25日 记录**
+https://blog.csdn.net/baidu_41885330/article/details/81875395  springboot + maven 多模块项目创建打包等流程
